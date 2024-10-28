@@ -18,21 +18,21 @@ bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/mai
 ```
 
 ### B. x86_64_openvino (9.1.1-10728)
-- Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.1-10728/SurveillanceStation-x86_64-9.1.1-10728_openvino.spk
+- [Download:](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.1-10728/SurveillanceStation-x86_64-9.1.1-10728_openvino.spk)
 - Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/SurveillanceStation-x86_64_openvino/install_license)
 ```
 
 ### C. armada38x (9.0.2-10061)
-- Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.0.2-10061/SurveillanceStation-armada38x-9.0.2-10061.spk
+- [Download:](https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.0.2-10061/SurveillanceStation-armada38x-9.0.2-10061.spk)
 - Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/SurveillanceStation-armada38x/install_license)
 ```
 
 ---
-### Remove license
+### Удалить внесенные изменения
 - Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/license/remove_license)
