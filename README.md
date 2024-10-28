@@ -1,14 +1,14 @@
 ## [Surveillance Station 9.1.1-10728](https://archive.synology.com/download/Package/SurveillanceStation)
 ---
-### Task Scheduler
-- Control Panel -> Task Scheduler
-- Create -> Scheduled Task -> User-defined script
-- General: User = root, uncheck Enable
-- Task Settings: User-defined script = ...
-- OK - OK
-- Click and run task.
-- Delete this task when you see there are 58 licenses.
+### Планировщик задач
 
+- Панель управления -> Планировщик задач. 
+- Создать -> Запланированное задание -> Пользовательский сценарий. 
+- Общие: Пользователь = root, снимите флажок Включить. 
+- Настройки задачи: Пользовательский сценарий = ... 
+- ОК - ОК 
+- Нажмите и запустите задачу. 
+- Удалите эту задачу, когда увидите, что имеется 58 лицензий.
 ---
 ### A. x86_64 (9.1.1-10728)
 - Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.1-10728/SurveillanceStation-x86_64-9.1.1-10728.spk
